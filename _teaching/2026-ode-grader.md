@@ -4,7 +4,7 @@ collection: teaching
 type: "Grader / Tutor"
 permalink: /teaching/2026-ode-grader
 venue: "Case Western Reserve University"
-date: 2026-08-24
+date: Fall 2026
 location: "Cleveland, Ohio"
 ---
 
